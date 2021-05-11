@@ -70,7 +70,7 @@ content .cv-background .cv-page .left-section .category .category-text .icon.map
   top: 0;
   left: 0;
 }
-content .cv-background .cv-page .left-section .category .category-text .icon.message {
+content .cv-background .cv-page .left-section .category .category-text.contact .icon.message {
   background-image: url("/asset-message-40x40.a80eca2d.png");
   width: 40px;
   height: 40px;
